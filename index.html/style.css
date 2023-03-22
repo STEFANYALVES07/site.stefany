@@ -1,0 +1,8 @@
+*{padding: 0;margin: 0;nox-sizing; border-box; front-family: Helvetica;}
+/*Cabeçalho*/
+header{
+	background-color: #ff007f;
+	color: #fff;
+	padding: 15px;
+	text-align: center;
+}
